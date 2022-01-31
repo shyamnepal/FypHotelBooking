@@ -1,1 +1,1 @@
-web: gunicorn FypHotelBooking.wsgi
+web: gunicorn HotelBooking.wsgi
